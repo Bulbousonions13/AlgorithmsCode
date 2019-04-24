@@ -1,0 +1,11 @@
+C:\Users\edwar\Desktop\AnalysisOfAlgorithms\AlgorithmsCode\AlgorithmsCode\bin\Debug\netcoreapp2.1\AlgorithmsCode.deps.json
+C:\Users\edwar\Desktop\AnalysisOfAlgorithms\AlgorithmsCode\AlgorithmsCode\bin\Debug\netcoreapp2.1\AlgorithmsCode.runtimeconfig.json
+C:\Users\edwar\Desktop\AnalysisOfAlgorithms\AlgorithmsCode\AlgorithmsCode\bin\Debug\netcoreapp2.1\AlgorithmsCode.runtimeconfig.dev.json
+C:\Users\edwar\Desktop\AnalysisOfAlgorithms\AlgorithmsCode\AlgorithmsCode\bin\Debug\netcoreapp2.1\AlgorithmsCode.dll
+C:\Users\edwar\Desktop\AnalysisOfAlgorithms\AlgorithmsCode\AlgorithmsCode\bin\Debug\netcoreapp2.1\AlgorithmsCode.pdb
+C:\Users\edwar\Desktop\AnalysisOfAlgorithms\AlgorithmsCode\AlgorithmsCode\obj\Debug\netcoreapp2.1\AlgorithmsCode.csprojAssemblyReference.cache
+C:\Users\edwar\Desktop\AnalysisOfAlgorithms\AlgorithmsCode\AlgorithmsCode\obj\Debug\netcoreapp2.1\AlgorithmsCode.csproj.CoreCompileInputs.cache
+C:\Users\edwar\Desktop\AnalysisOfAlgorithms\AlgorithmsCode\AlgorithmsCode\obj\Debug\netcoreapp2.1\AlgorithmsCode.AssemblyInfoInputs.cache
+C:\Users\edwar\Desktop\AnalysisOfAlgorithms\AlgorithmsCode\AlgorithmsCode\obj\Debug\netcoreapp2.1\AlgorithmsCode.AssemblyInfo.cs
+C:\Users\edwar\Desktop\AnalysisOfAlgorithms\AlgorithmsCode\AlgorithmsCode\obj\Debug\netcoreapp2.1\AlgorithmsCode.dll
+C:\Users\edwar\Desktop\AnalysisOfAlgorithms\AlgorithmsCode\AlgorithmsCode\obj\Debug\netcoreapp2.1\AlgorithmsCode.pdb
